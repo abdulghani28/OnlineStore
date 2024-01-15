@@ -11,6 +11,22 @@
 		057A14282B4FD52000AA8EE0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057A14272B4FD52000AA8EE0 /* ContentView.swift */; };
 		057A142A2B4FD52300AA8EE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 057A14292B4FD52300AA8EE0 /* Assets.xcassets */; };
 		057A142D2B4FD52300AA8EE0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 057A142C2B4FD52300AA8EE0 /* Preview Assets.xcassets */; };
+		057A14342B4FD95600AA8EE0 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057A14332B4FD95600AA8EE0 /* LoginView.swift */; };
+		057A14362B4FD99B00AA8EE0 /* RegisterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057A14352B4FD99A00AA8EE0 /* RegisterView.swift */; };
+		057A14382B4FF60900AA8EE0 /* InputView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057A14372B4FF60900AA8EE0 /* InputView.swift */; };
+		057A143E2B50143800AA8EE0 /* ListProdukView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057A143D2B50143800AA8EE0 /* ListProdukView.swift */; };
+		057A14402B50154F00AA8EE0 /* CreateProductView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057A143F2B50154F00AA8EE0 /* CreateProductView.swift */; };
+		057A14442B503B6700AA8EE0 /* APIService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057A14432B503B6700AA8EE0 /* APIService.swift */; };
+		057A14462B503BAE00AA8EE0 /* RegisterViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057A14452B503BAE00AA8EE0 /* RegisterViewModel.swift */; };
+		057A14492B503BE300AA8EE0 /* RegisterResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057A14482B503BE300AA8EE0 /* RegisterResponse.swift */; };
+		057A144C2B503C1500AA8EE0 /* LoginViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057A144B2B503C1500AA8EE0 /* LoginViewModel.swift */; };
+		057A144E2B503D1000AA8EE0 /* LoginResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057A144D2B503D1000AA8EE0 /* LoginResponse.swift */; };
+		057A14522B50441C00AA8EE0 /* ProductViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057A14512B50441C00AA8EE0 /* ProductViewModel.swift */; };
+		057A14552B50EDD400AA8EE0 /* ProductModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057A14542B50EDD400AA8EE0 /* ProductModel.swift */; };
+		057A14572B50EE0F00AA8EE0 /* ProductResponses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057A14562B50EE0F00AA8EE0 /* ProductResponses.swift */; };
+		05AFBA862B51A74200076764 /* AddVariantView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05AFBA852B51A74200076764 /* AddVariantView.swift */; };
+		05AFBA882B52499F00076764 /* VariantModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05AFBA872B52499F00076764 /* VariantModel.swift */; };
+		05AFBA8A2B524AFD00076764 /* VariantViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05AFBA892B524AFD00076764 /* VariantViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +35,22 @@
 		057A14272B4FD52000AA8EE0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		057A14292B4FD52300AA8EE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		057A142C2B4FD52300AA8EE0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		057A14332B4FD95600AA8EE0 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		057A14352B4FD99A00AA8EE0 /* RegisterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterView.swift; sourceTree = "<group>"; };
+		057A14372B4FF60900AA8EE0 /* InputView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputView.swift; sourceTree = "<group>"; };
+		057A143D2B50143800AA8EE0 /* ListProdukView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListProdukView.swift; sourceTree = "<group>"; };
+		057A143F2B50154F00AA8EE0 /* CreateProductView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateProductView.swift; sourceTree = "<group>"; };
+		057A14432B503B6700AA8EE0 /* APIService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIService.swift; sourceTree = "<group>"; };
+		057A14452B503BAE00AA8EE0 /* RegisterViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewModel.swift; sourceTree = "<group>"; };
+		057A14482B503BE300AA8EE0 /* RegisterResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterResponse.swift; sourceTree = "<group>"; };
+		057A144B2B503C1500AA8EE0 /* LoginViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewModel.swift; sourceTree = "<group>"; };
+		057A144D2B503D1000AA8EE0 /* LoginResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginResponse.swift; sourceTree = "<group>"; };
+		057A14512B50441C00AA8EE0 /* ProductViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductViewModel.swift; sourceTree = "<group>"; };
+		057A14542B50EDD400AA8EE0 /* ProductModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductModel.swift; sourceTree = "<group>"; };
+		057A14562B50EE0F00AA8EE0 /* ProductResponses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductResponses.swift; sourceTree = "<group>"; };
+		05AFBA852B51A74200076764 /* AddVariantView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddVariantView.swift; sourceTree = "<group>"; };
+		05AFBA872B52499F00076764 /* VariantModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VariantModel.swift; sourceTree = "<group>"; };
+		05AFBA892B524AFD00076764 /* VariantViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VariantViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +83,11 @@
 		057A14242B4FD52000AA8EE0 /* DataUtamaTest */ = {
 			isa = PBXGroup;
 			children = (
+				057A14502B5043DB00AA8EE0 /* CustomView */,
+				057A144F2B503D8A00AA8EE0 /* Product */,
+				057A144A2B503C0800AA8EE0 /* Login */,
+				057A14472B503BB400AA8EE0 /* Register */,
+				057A14412B503B5300AA8EE0 /* Utils */,
 				057A14252B4FD52000AA8EE0 /* DataUtamaTestApp.swift */,
 				057A14272B4FD52000AA8EE0 /* ContentView.swift */,
 				057A14292B4FD52300AA8EE0 /* Assets.xcassets */,
@@ -65,6 +102,81 @@
 				057A142C2B4FD52300AA8EE0 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		057A14412B503B5300AA8EE0 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				057A14422B503B5A00AA8EE0 /* Responses */,
+				057A14432B503B6700AA8EE0 /* APIService.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		057A14422B503B5A00AA8EE0 /* Responses */ = {
+			isa = PBXGroup;
+			children = (
+				057A14482B503BE300AA8EE0 /* RegisterResponse.swift */,
+				057A144D2B503D1000AA8EE0 /* LoginResponse.swift */,
+				057A14562B50EE0F00AA8EE0 /* ProductResponses.swift */,
+			);
+			path = Responses;
+			sourceTree = "<group>";
+		};
+		057A14472B503BB400AA8EE0 /* Register */ = {
+			isa = PBXGroup;
+			children = (
+				057A14352B4FD99A00AA8EE0 /* RegisterView.swift */,
+				057A14452B503BAE00AA8EE0 /* RegisterViewModel.swift */,
+			);
+			path = Register;
+			sourceTree = "<group>";
+		};
+		057A144A2B503C0800AA8EE0 /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				057A144B2B503C1500AA8EE0 /* LoginViewModel.swift */,
+				057A14332B4FD95600AA8EE0 /* LoginView.swift */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		057A144F2B503D8A00AA8EE0 /* Product */ = {
+			isa = PBXGroup;
+			children = (
+				05AFBA8C2B524BEA00076764 /* Variant */,
+				05AFBA8B2B524BD800076764 /* Product */,
+			);
+			path = Product;
+			sourceTree = "<group>";
+		};
+		057A14502B5043DB00AA8EE0 /* CustomView */ = {
+			isa = PBXGroup;
+			children = (
+				057A14372B4FF60900AA8EE0 /* InputView.swift */,
+			);
+			path = CustomView;
+			sourceTree = "<group>";
+		};
+		05AFBA8B2B524BD800076764 /* Product */ = {
+			isa = PBXGroup;
+			children = (
+				057A14512B50441C00AA8EE0 /* ProductViewModel.swift */,
+				057A143D2B50143800AA8EE0 /* ListProdukView.swift */,
+				057A143F2B50154F00AA8EE0 /* CreateProductView.swift */,
+				057A14542B50EDD400AA8EE0 /* ProductModel.swift */,
+			);
+			path = Product;
+			sourceTree = "<group>";
+		};
+		05AFBA8C2B524BEA00076764 /* Variant */ = {
+			isa = PBXGroup;
+			children = (
+				05AFBA852B51A74200076764 /* AddVariantView.swift */,
+				05AFBA872B52499F00076764 /* VariantModel.swift */,
+				05AFBA892B524AFD00076764 /* VariantViewModel.swift */,
+			);
+			path = Variant;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +249,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				057A14342B4FD95600AA8EE0 /* LoginView.swift in Sources */,
+				057A14572B50EE0F00AA8EE0 /* ProductResponses.swift in Sources */,
+				057A14462B503BAE00AA8EE0 /* RegisterViewModel.swift in Sources */,
+				057A14362B4FD99B00AA8EE0 /* RegisterView.swift in Sources */,
+				057A14382B4FF60900AA8EE0 /* InputView.swift in Sources */,
+				057A14402B50154F00AA8EE0 /* CreateProductView.swift in Sources */,
+				057A14552B50EDD400AA8EE0 /* ProductModel.swift in Sources */,
+				057A14522B50441C00AA8EE0 /* ProductViewModel.swift in Sources */,
+				05AFBA8A2B524AFD00076764 /* VariantViewModel.swift in Sources */,
+				057A143E2B50143800AA8EE0 /* ListProdukView.swift in Sources */,
+				057A14442B503B6700AA8EE0 /* APIService.swift in Sources */,
+				05AFBA882B52499F00076764 /* VariantModel.swift in Sources */,
 				057A14282B4FD52000AA8EE0 /* ContentView.swift in Sources */,
+				057A144C2B503C1500AA8EE0 /* LoginViewModel.swift in Sources */,
+				05AFBA862B51A74200076764 /* AddVariantView.swift in Sources */,
+				057A144E2B503D1000AA8EE0 /* LoginResponse.swift in Sources */,
 				057A14262B4FD52000AA8EE0 /* DataUtamaTestApp.swift in Sources */,
+				057A14492B503BE300AA8EE0 /* RegisterResponse.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
